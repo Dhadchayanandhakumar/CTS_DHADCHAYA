@@ -1,5 +1,7 @@
 package designprinciples.factorymethod;
 
+
+
 public class TestFactory {
 
     public static void main(String[] args) {
