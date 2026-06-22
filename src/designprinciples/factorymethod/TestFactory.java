@@ -1,7 +1,7 @@
 package designprinciples.factorymethod;
 
 
-public class TestFactory {
+public class Tegit push origin main --forcestFactory {
 
     public static void main(String[] args) {
 
